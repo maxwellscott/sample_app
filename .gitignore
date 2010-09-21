@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 .bundle
 db/*.sqlite3
 log/*.log
 tmp/**/*
+=======
+/doc
+/rails
+*.gem
+/coverage
+>>>>>>> 260c1c45ed8c31917614710015a9dcab7981943a
